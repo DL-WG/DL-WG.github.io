@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contact
+Dr. Rossella Arcucci [website](http://imperial.ac.uk/r.arcucci) [email](r.arcucci@imperial.ac.uk) [Google scholar](https://scholar.google.com/citations?user=oxy2ZQoAAAAJ&hl=en&oi=sra)
